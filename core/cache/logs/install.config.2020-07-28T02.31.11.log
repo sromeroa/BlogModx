@@ -1,0 +1,1 @@
+[2020-07-28 02:31:11] (ERROR in xPDOConnection::connect @ /var/www/html/modx/core/xpdo/xpdo.class.php : 3119) SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: YES)

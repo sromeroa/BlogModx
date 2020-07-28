@@ -1,0 +1,2 @@
+[2020-07-28 02:31:09] (ERROR in xPDOConnection::connect @ /var/www/html/modx/core/xpdo/xpdo.class.php : 3119) SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: YES)
+[2020-07-28 02:31:09] (ERROR @ /var/www/html/modx/setup/includes/tables_create.php : 103) Could not connect to database server: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: YES)
